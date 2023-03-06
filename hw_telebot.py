@@ -6,7 +6,7 @@ from gtts import gTTS
 
 LANGUAGE_CODE='ru'
 count=0
-bot = telebot.TeleBot("5853332875:AAGsljO8t5zkY2mJl-rbCIrleEQX3HqkSBA", parse_mode=None) 
+bot = telebot.TeleBot("5811096072:AAHmXceu0-rikQ_4lAiBTn8E9Yv26jZcMIs", parse_mode=None)
 wikipedia.set_lang(LANGUAGE_CODE)
 dictt={'привет':'Привет',
 'как это работает?':"введите название книги и я дам информацию об этой книге",
